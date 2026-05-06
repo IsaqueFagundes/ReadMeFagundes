@@ -1,11 +1,9 @@
 - 👋 Hi, I'm Isaque Santos Fagundes, my nickname is @oiChuva.
-- 👀 I’m interested in Python, JS and integrations using API's.
+- 👀 I’m interested in Programing.
 - 🌱 I’m currently graduated in Computer Science at São Judas Tadeu University in Imperatriz Leopoldina, São Paulo.
 - 📫 How to reach me:
 - Mail: isaque.1sfagundes@gmail.com.br
-- Social Media:
-Instagram: @o1chuva_____
-LinkedIn: www.linkedin.com/in/isaque-santos-fagundes-207249238
+- LinkedIn: www.linkedin.com/in/isaque-santos-fagundes-207249238
 
 
 <!---
