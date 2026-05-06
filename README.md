@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Isaque Santos Fagundes, my nickname is @oiChuva.
+- 👋 Hi, I'm Isaque Santos Fagundes.
 - 👀 I’m interested in Programing.
 - 🌱 I’m currently graduated in Computer Science at São Judas Tadeu University in Imperatriz Leopoldina, São Paulo.
 - 📫 How to reach me:
